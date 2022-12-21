@@ -1,0 +1,5 @@
+.idea/
+/venv/
+/script.py
+__pycache__/
+allurereport/
